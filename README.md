@@ -16,7 +16,7 @@ I build products end to end — database, business logic and UI — and integrat
 **[ai-business-assistant](https://github.com/NexusDev-ar/ai-business-assistant)** — LLM assistant embedded in a live site: answers visitor questions 24/7, qualifies and captures leads, and notifies the owner on WhatsApp in real time. Handles timeouts, malformed model responses and API cost control, because it runs unattended.
 `Node · Express · Groq / Llama 3.3`
 
-**gym-premium** — Gym-management SaaS: members, billing, access control, cash register and reports. Role-based auth, PDF/Excel exports, charts. In production, used daily by paying customers.
+**Gym Premium** — Gym-management SaaS: members, billing, access control, cash register and reports. Role-based auth, PDF/Excel exports, charts. In production, used daily by paying customers. *Closed source — commercial product.* Live demo: [gym-premium-peach.vercel.app](https://gym-premium-peach.vercel.app/)
 `Next.js · TypeScript · Prisma · Supabase`
 
 **Alerta Campana** — Native Android panic-button app sending geolocated alerts to two municipal back-ends in parallel.
